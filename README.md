@@ -1,12 +1,12 @@
 # BestTrace
 登陆SSH
 
-wget https://github.com/zhucaidan/BestTrace-Linux/raw/master/besttrace4linux.zip
+wget https://github.com/ComeBey/BestTrace/archive/master.zip
 
-unzip besttrace4linux.zip
+unzip master.zip
 
 yum install -y unzip zip
 
-chmod +x besttrace
+chmod +x master
 
 ./besttrace X.X.X.X
