@@ -25,15 +25,14 @@ chmod +x besttrace
  2  139.162.64.14  0.61 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.64.14  0.51 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.64.14  0.61 ms  AS63949  日本 东京都 品川区 linode.com
- 3  ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.28 ms  AS2914  日本 东京都 东京 ntt.com
-    ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.12 ms  AS2914  日本 东京都 东京 ntt.com
-    ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.07 ms  AS2914  日本 东京都 东京 ntt.com
- 4  ae-19.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.6.130)  1.21 ms  AS2914  日本 东京都 东京 ntt.com
-    *
-    ae-19.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.6.130)  1.20 ms  AS2914  日本 东京都 东京 ntt.com
- 5  ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  9.01 ms  AS2914  日本 大阪府 大阪 ntt.com
-    ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  8.46 ms  AS2914  日本 大阪府 大阪 ntt.com
-    ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  8.51 ms  AS2914  日本 大阪府 大阪 ntt.com
+-   ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.28 ms  AS2914  日本 东京都 东京 ntt.com
+-   ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.12 ms  AS2914  日本 东京都 东京 ntt.com
+-   ae-15.r01.tokyjp08.jp.bb.gin.ntt.net (192.80.17.177)  1.07 ms  AS2914  日本 东京都 东京 ntt.com
+-   ae-19.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.6.130)  1.21 ms  AS2914  日本 东京都 东京 ntt.com
+-   ae-19.r30.tokyjp05.jp.bb.gin.ntt.net (129.250.6.130)  1.20 ms  AS2914  日本 东京都 东京 ntt.com
+-   ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  9.01 ms  AS2914  日本 大阪府 大阪 ntt.com
+-   ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  8.46 ms  AS2914  日本 大阪府 大阪 ntt.com
+-   ae-9.r24.osakjp02.jp.bb.gin.ntt.net (129.250.7.79)  8.51 ms  AS2914  日本 大阪府 大阪 ntt.com
 -   ae-4.r27.tkokhk01.hk.bb.gin.ntt.net (129.250.2.43)  57.62 ms  AS2914  中国 香港 ntt.com
 -   ae-4.r27.tkokhk01.hk.bb.gin.ntt.net (129.250.2.43)  58.24 ms  AS2914  中国 香港 ntt.com
 -   ae-4.r27.tkokhk01.hk.bb.gin.ntt.net (129.250.2.43)  62.61 ms  AS2914  中国 香港 ntt.com
