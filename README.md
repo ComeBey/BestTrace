@@ -1,7 +1,7 @@
 # BestTrace
 登陆SSH
 
-wget https://github.com/ComeBey/BestTrace/archive/master.zip
+wget https://github.com/ComeBey/BestTrace/archive/BestTrace-master.zip
 
 unzip master.zip
 
