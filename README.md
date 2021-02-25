@@ -7,7 +7,7 @@ yum install wget
 wget https://github.com/ComeBey/BestTrace/raw/master/besttrace4linux.zip
 ```
 ```
-yum install -y unzip zip
+yum install -y unzip
 ```
 ```
 unzip besttrace4linux.zip
