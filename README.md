@@ -18,7 +18,7 @@ chmod +x besttrace
 ```
 ./besttrace X.X.X.X
 ```
-```diff 路由回程
+```diff dsdfdf
  1  139.162.65.2  0.58 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.85 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.55 ms  AS63949  日本 东京都 品川区 linode.com
