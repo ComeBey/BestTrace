@@ -32,20 +32,20 @@ chmod +x besttrace
     203.195.115.13  7.86 ms  AS4809  韩国, 首尔, chinatelecom.com.cn, 电信
     203.195.115.13  9.33 ms  AS4809  韩国, 首尔, chinatelecom.com.cn, 电信
 +   59.43.250.33  26.04 ms  *  中国, 上海, chinatelecom.com.cn, 电信
-    59.43.250.33  24.64 ms  *  中国, 上海, chinatelecom.com.cn, 电信
-    59.43.250.33  24.07 ms  *  中国, 上海, chinatelecom.com.cn, 电信
- 7  59.43.138.49  38.91 ms  *  中国, 上海, chinatelecom.com.cn, 电信
-    59.43.138.49  60.56 ms  *  中国, 上海, chinatelecom.com.cn, 电信
-    59.43.138.49  42.29 ms  *  中国, 上海, chinatelecom.com.cn, 电信
- 8  59.43.141.145  48.77 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
-    59.43.141.145  81.76 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
-    59.43.141.145  48.51 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
- 9  59.43.132.126  57.99 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
-    59.43.132.126  52.82 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
-    59.43.132.126  50.71 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
-10  59.43.134.166  140.14 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
-    59.43.134.166  49.93 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
-    59.43.134.166  48.79 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
++   59.43.250.33  24.64 ms  *  中国, 上海, chinatelecom.com.cn, 电信
++   59.43.250.33  24.07 ms  *  中国, 上海, chinatelecom.com.cn, 电信
++   59.43.138.49  38.91 ms  *  中国, 上海, chinatelecom.com.cn, 电信
++   59.43.138.49  60.56 ms  *  中国, 上海, chinatelecom.com.cn, 电信
++   59.43.138.49  42.29 ms  *  中国, 上海, chinatelecom.com.cn, 电信
++   59.43.141.145  48.77 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.141.145  81.76 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.141.145  48.51 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.132.126  57.99 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.132.126  52.82 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.132.126  50.71 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   59.43.134.166  140.14 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
++   59.43.134.166  49.93 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
++   59.43.134.166  48.79 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
 
 ```
 
