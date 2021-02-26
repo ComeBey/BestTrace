@@ -64,13 +64,13 @@ anzhuang(){
     xiazai
 }
 menu(){
-    echo -e "\t##########################################"
-    echo -e "\t############# 路由追踪脚本 ###############"
-    echo -e "\t#############   ComeBey    ###############"
-    echo -e "\t### ComeBey官方 https://www.rootfw.com ###"
-    echo -e "\t###  Github https://github.com/ComeBey ###"
-    echo -e "\t####  YouTube https://bit.ly/38KzyU4 #####"
-    echo -e "\t##########################################"
+    echo -e " ========================================================= "
+    echo -e " \       路由追踪脚本BestTrace.sh  Script                / "
+    echo -e " \                     ComeBey                           / "
+    echo -e " \       ComeBey官方 https://www.rootfw.com              / "
+    echo -e " \       Github https://github.com/ComeBey               / "
+    echo -e " \       YouTube https://bit.ly/38KzyU4                  / "
+    echo -e " ========================================================= "
     echo -e "${Green}1.${Font}  安装路由追踪"
     echo -e "${Green}2.${Font}  输入追踪IP"
     echo -e "${Green}3.${Font}  查看帮助"
