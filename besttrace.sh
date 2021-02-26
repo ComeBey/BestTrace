@@ -3,11 +3,11 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 #fonts color
-Green="\033[32m"
-Red="\033[31m"
-# Yellow="\033[33m"
-GreenBG="\033[42;37m"
-RedBG="\033[41;37m"
+Green="\033[320m"
+Red="\033[310m"
+# Yellow="\033[330m"
+GreenBG="\033[42;370m"
+RedBG="\033[41;370m"
 Font="\033[0m"
 
 #notification information
