@@ -18,7 +18,7 @@ chmod +x besttrace
 ```
 ./besttrace X.X.X.X
 ```
-回程CN2 GIA
+回程CN2 GIA from Oracle
 ```diff Oracle
  1  140.91.214.26  0.18 ms  AS31898  韩国, 首尔, oracle.com
     140.91.214.26  0.15 ms  AS31898  韩国, 首尔, oracle.com
@@ -53,7 +53,7 @@ chmod +x besttrace
 
 
 
-普通线路 ntt高峰期会爆炸
+普通线路 ntt高峰期会爆炸 form linode
 ```diff dsdfdf
  1  139.162.65.2  0.58 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.85 ms  AS63949  日本 东京都 品川区 linode.com
