@@ -1,3 +1,10 @@
+# besttrace.sh
+```
+wget -N --no-check-certificate -q -O besttrace.sh "https://raw.githubusercontent.com/ComeBey/BestTrace/master/besttrace.sh" && chmod +x besttrace.sh && bash besttrace.sh
+```
+
+
+
 # BestTrace
 登陆SSH root权限下
 ```
