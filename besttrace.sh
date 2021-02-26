@@ -43,10 +43,10 @@ xitongjiance() {
 
 root() {
     if [ 0 == $UID ]; then
-        echo -e "${OK} ${GreenBG} 当前用户是root用户，进入安装流程 ${Font}"
+        echo -e "${OK} ${GreenBG} 当前是root用户，进入安装流程 ${Font}"
         sleep 3
     else
-        echo -e "${Error} ${RedBG} 当前用户不是root用户，请切换到root用户后重新执行脚本 ${Font}"
+        echo -e "${Error} ${RedBG} 当前不是root用户，请切换到root用户后重新执行脚本 ${Font}"
         exit 1
     fi
 }
@@ -55,7 +55,7 @@ xiazai(){
     wget https://cdn.ipip.net/17mon/besttrace4linux.zip
     unzip besttrace4linux.zip
     chmod +x besttrace
-    echo -e "${OK} ${GreenBG} 安装完成 ${Font}"
+    echo -e "${OK} ${RedBG} 安装完成 ${Font}"
 }
 
 anzhuang(){
@@ -64,12 +64,13 @@ anzhuang(){
     xiazai
 }
 menu(){
-    echo -e "\t———————路由追踪脚本———————"
-    echo -e "\t—————ComeBey—————"
+    echo -e "\t---------路由追踪脚本---------"
+    echo -e "\t---------  ComeBey   ---------"
+    echo -e "\thttps://www.rootfw.com\n"
     echo -e "\thttps://github.com/ComeBey\n"
     echo -e "${Green}1.${Font}  安装路由追踪"
     echo -e "${Green}2.${Font}  输入追踪IP"
-    echo -e "${Green}2.${Font}  ./besttrace -H"
+    echo -e "${Green}3.${Font}  查看帮助"
     echo -e "${Green}3.${Font}  退出脚本"
 
     read -rp "请输入数字：" shuzi
@@ -81,7 +82,10 @@ menu(){
        read -rp "请输入IP地址" ip
        ./besttrace -q1 -g cn -T ${ip}
        ;;
-     3)
+    3)
+       ./besttrace -H
+       ;;
+     4)
        exit 0
        ;;
      *)
