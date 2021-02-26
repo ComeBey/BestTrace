@@ -64,11 +64,13 @@ anzhuang(){
     xiazai
 }
 menu(){
-    echo -e "\t######### 路由追踪脚本 ###########"
-    echo -e "\t#########   ComeBey    ###########"
-    echo -e "\tComeBey官方 https://www.rootfw.com\n"
-    echo -e "\tGithub https://github.com/ComeBey\n"
-    echo -e "\tYouTube https://bit.ly/38KzyU4\n"
+    echo -e "\t##########################################"
+    echo -e "\t############# 路由追踪脚本 ###############"
+    echo -e "\t#############   ComeBey    ###############"
+    echo -e "\t### ComeBey官方 https://www.rootfw.com ###"
+    echo -e "\t###  Github https://github.com/ComeBey ###"
+    echo -e "\t####  YouTube https://bit.ly/38KzyU4 #####"
+    echo -e "\t##########################################"
     echo -e "${Green}1.${Font}  安装路由追踪"
     echo -e "${Green}2.${Font}  输入追踪IP"
     echo -e "${Green}3.${Font}  查看帮助"
