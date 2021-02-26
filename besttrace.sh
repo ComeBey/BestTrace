@@ -64,8 +64,8 @@ anzhuang(){
     xiazai
 }
 menu(){
-    echo -e "\t---------路由追踪脚本---------"
-    echo -e "\t---------  ComeBey   ---------"
+    echo -e "\t######### 路由追踪脚本 ###########"
+    echo -e "\t#########   ComeBey    ###########"
     echo -e "\tComeBey官方 https://www.rootfw.com\n"
     echo -e "\tGithub https://github.com/ComeBey\n"
     echo -e "\tYouTube https://bit.ly/38KzyU4\n"
