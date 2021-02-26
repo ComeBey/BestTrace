@@ -18,6 +18,41 @@ chmod +x besttrace
 ```
 ./besttrace X.X.X.X
 ```
+```diff Oracle
+ 1  140.91.214.26  0.18 ms  AS31898  韩国, 首尔, oracle.com
+    140.91.214.26  0.15 ms  AS31898  韩国, 首尔, oracle.com
+    140.91.214.26  0.15 ms  AS31898  韩国, 首尔, oracle.com
+ 2  121.78.30.14  0.89 ms  AS9286  韩国, 首尔, kinx.net
+    121.78.30.14  0.73 ms  AS9286  韩国, 首尔, kinx.net
+    121.78.30.14  0.72 ms  AS9286  韩国, 首尔, kinx.net
+ 3  121.78.30.13  0.88 ms  AS9286  韩国, 首尔, kinx.net
+    121.78.30.13  0.92 ms  AS9286  韩国, 首尔, kinx.net
+    121.78.30.13  0.86 ms  AS9286  韩国, 首尔, kinx.net
+ 4  203.195.115.13  10.49 ms  AS4809  韩国, 首尔, chinatelecom.com.cn, 电信
+    203.195.115.13  7.86 ms  AS4809  韩国, 首尔, chinatelecom.com.cn, 电信
+    203.195.115.13  9.33 ms  AS4809  韩国, 首尔, chinatelecom.com.cn, 电信
++   59.43.250.33  26.04 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+    59.43.250.33  24.64 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+    59.43.250.33  24.07 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+ 7  59.43.138.49  38.91 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+    59.43.138.49  60.56 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+    59.43.138.49  42.29 ms  *  中国, 上海, chinatelecom.com.cn, 电信
+ 8  59.43.141.145  48.77 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+    59.43.141.145  81.76 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+    59.43.141.145  48.51 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+ 9  59.43.132.126  57.99 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+    59.43.132.126  52.82 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+    59.43.132.126  50.71 ms  *  中国, 广东, 广州, chinatelecom.com.cn, 电信
+10  59.43.134.166  140.14 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
+    59.43.134.166  49.93 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
+    59.43.134.166  48.79 ms  *  中国, 广东, 东莞, chinatelecom.com.cn, 电信
+
+```
+
+
+
+
+
 ```diff dsdfdf
  1  139.162.65.2  0.58 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.85 ms  AS63949  日本 东京都 品川区 linode.com
