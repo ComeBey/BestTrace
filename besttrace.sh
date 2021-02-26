@@ -54,7 +54,7 @@ root() {
 xiazai(){
     wget https://cdn.ipip.net/17mon/besttrace4linux.zip
     unzip besttrace4linux.zip
-    chmod +x besttrace
+    chmod +x  besttrace
     echo -e "${OK} ${RedBG} 安装完成 ${Font}"
 }
 
@@ -71,7 +71,7 @@ menu(){
     echo -e "${Green}1.${Font}  安装路由追踪"
     echo -e "${Green}2.${Font}  输入追踪IP"
     echo -e "${Green}3.${Font}  查看帮助"
-    echo -e "${Green}3.${Font}  退出脚本"
+    echo -e "${Green}4.${Font}  退出脚本"
 
     read -rp "请输入数字：" shuzi
     case $shuzi in
@@ -85,10 +85,10 @@ menu(){
     3)
        ./besttrace -H
        ;;
-     4)
+    4)
        exit 0
        ;;
-     *)
+    *)
        echo -e "${RedBG}请输入正确的数字${Font}"
 	;;
     esac
