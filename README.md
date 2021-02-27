@@ -1,6 +1,6 @@
 # besttrace.sh
 ```
-wget -N --no-check-certificate -q -O besttrace.sh "https://raw.githubusercontent.com/ComeBey/BestTrace/master/besttrace.sh" && chmod +x besttrace.sh && bash besttrace.sh
+wget -N --no-check-certificate -q -O besttrace.sh "https://raw.githubusercontent.com/ComeBey/BestTrace/master/besttrace.sh" && yum install -y wget unzip && chmod +x besttrace.sh && bash besttrace.sh
 ```
 
 
@@ -60,7 +60,7 @@ chmod +x besttrace
 
 
 
-普通线路 ntt高峰期会爆炸 form linode
+普通线路 只要从中国连接到日本走得是这条线，不爆炸我送你一包辣条 form linode
 ```diff dsdfdf
  1  139.162.65.2  0.58 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.85 ms  AS63949  日本 东京都 品川区 linode.com
@@ -88,4 +88,79 @@ chmod +x besttrace
 -   223.120.2.53  60.85 ms  AS58453  中国 香港 移动
 -   221.183.55.54  66.82 ms  AS9808  中国 广东 广州 移动
 -   221.176.24.5  68.40 ms  AS9808  中国 广东 广州 移动
+```
+华为云 
+```diff
+-   #联通直连
+ 1  100.80.0.1  8.99 ms  *  共享地址
+    100.80.0.1  2.02 ms  *  共享地址
+    100.80.0.1  2.22 ms  *  共享地址
+ 2  10.231.6.21  5.38 ms  *  局域网
+    10.231.6.21  2.05 ms  *  局域网
+    10.231.6.21  2.22 ms  *  局域网
+    10.229.6.153  2266.73 ms  *  局域网
+ 8  10.229.10.129  3.79 ms  *  局域网
+    10.229.10.129  6.88 ms  *  局域网
+    10.229.10.129  1.54 ms  *  局域网
+ 9  172.16.12.70  1.69 ms  *  局域网
+    172.16.12.70  1.59 ms  *  局域网
+    172.16.12.70  1.50 ms  *  局域网
+11  172.16.12.42  1.83 ms  *  局域网
+    172.16.12.42  1.61 ms  *  局域网
+    172.16.12.42  1.74 ms  *  局域网
+12  61.14.203.125  2.80 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.203.125  2.73 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.203.125  2.98 ms  *  中国, 香港, chinaunicom.com, 联通
+13  61.14.201.73  2.70 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.201.73  8.23 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.201.73  5.87 ms  *  中国, 香港, chinaunicom.com, 联通
+14  202.77.23.29  9.40 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  7.17 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  4.86 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+15  219.158.10.61  11.31 ms  AS4837  中国, 香港, chinaunicom.com, 联通
+    219.158.10.61  8.99 ms  AS4837  中国, 香港, chinaunicom.com, 联通
+    219.158.10.61  6.69 ms  AS4837  中国, 香港, chinaunicom.com, 联通
++   219.158.103.33  12.49 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+-   #电信线路走联通在转202.97
+    100.80.0.1  13.74 ms  *  共享地址
+    100.80.0.1  2.44 ms  *  共享地址
+    100.80.0.1  2.17 ms  *  共享地址
+    10.231.6.21  6.23 ms  *  局域网
+    10.231.6.21  2.27 ms  *  局域网
+    10.231.6.21  2.40 ms  *  局域网
+    10.229.10.129  1.88 ms  *  局域网
+    10.229.10.129  1.64 ms  *  局域网
+    10.229.10.129  1.54 ms  *  局域网
+    172.16.12.70  1.84 ms  *  局域网
+    172.16.12.70  1.56 ms  *  局域网
+    172.16.12.70  1.61 ms  *  局域网
+    172.16.12.42  1.71 ms  *  局域网
+    172.16.12.42  1.70 ms  *  局域网
+    172.16.12.42  1.71 ms  *  局域网
+    61.14.203.125  2.73 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.203.125  2.79 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.203.125  2.98 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.201.73  3.22 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.201.73  8.83 ms  *  中国, 香港, chinaunicom.com, 联通
+    61.14.201.73  6.59 ms  *  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  10.16 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  7.80 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  5.56 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    219.158.10.61  17.21 ms  AS4837  中国, 香港, chinaunicom.com, 联通
+    219.158.10.61  9.90 ms  AS4837  中国, 香港, chinaunicom.com, 联通
+    219.158.10.61  7.40 ms  AS4837  中国, 香港, chinaunicom.com, 联通
+    219.158.103.33  7.37 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.103.33  13.09 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.103.33  10.78 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.8.121  36.39 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.8.121  35.16 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.8.121  19.38 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.23.246  25.77 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.23.246  39.24 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
+    219.158.23.246  36.98 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
++   202.97.16.9  24.47 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   202.97.16.9  38.10 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   202.97.16.9  44.05 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   202.97.95.133  30.30 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   202.97.95.133  24.73 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
 ```
