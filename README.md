@@ -60,7 +60,7 @@ chmod +x besttrace
 
 
 
-普通线路 ntt高峰期会爆炸 form linode
+普通线路 只要从中国连接到日本走得是这条线，不爆炸我送你一包辣条 form linode
 ```diff dsdfdf
  1  139.162.65.2  0.58 ms  AS63949  日本 东京都 品川区 linode.com
     139.162.65.2  0.85 ms  AS63949  日本 东京都 品川区 linode.com
@@ -114,13 +114,13 @@ chmod +x besttrace
 13  61.14.201.73  2.70 ms  *  中国, 香港, chinaunicom.com, 联通
     61.14.201.73  8.23 ms  *  中国, 香港, chinaunicom.com, 联通
     61.14.201.73  5.87 ms  *  中国, 香港, chinaunicom.com, 联通
--   202.77.23.29  9.40 ms  AS10099  中国, 香港, chinaunicom.com, 联通
--   202.77.23.29  7.17 ms  AS10099  中国, 香港, chinaunicom.com, 联通
--   202.77.23.29  4.86 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+14  202.77.23.29  9.40 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  7.17 ms  AS10099  中国, 香港, chinaunicom.com, 联通
+    202.77.23.29  4.86 ms  AS10099  中国, 香港, chinaunicom.com, 联通
 15  219.158.10.61  11.31 ms  AS4837  中国, 香港, chinaunicom.com, 联通
     219.158.10.61  8.99 ms  AS4837  中国, 香港, chinaunicom.com, 联通
     219.158.10.61  6.69 ms  AS4837  中国, 香港, chinaunicom.com, 联通
-16  219.158.103.33  12.49 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
++   219.158.103.33  12.49 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
     #电信线路
     100.80.0.1  13.74 ms  *  共享地址
     100.80.0.1  2.44 ms  *  共享地址
