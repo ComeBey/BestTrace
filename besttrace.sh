@@ -93,8 +93,7 @@ menu(){
        ;;
     5)
        read -rp "确定安装" 任意键
-       wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
-chmod +x speedtest-cli
+       wget -O speedtest-cli https://raw.githubusercontent.com/ComeBey/BestTrace/master/speedtest/speedtest.py && chmod +x speedtest-cli
        ;;
     *)
        echo -e "${RedBG}请输入正确的数字${Font}"
