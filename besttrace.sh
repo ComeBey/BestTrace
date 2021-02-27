@@ -74,6 +74,7 @@ menu(){
     echo -e "${Green}2.${Font}  输入追踪IP"
     echo -e "${Green}3.${Font}  查看帮助"
     echo -e "${Green}4.${Font}  退出脚本"
+    echo -e "${Green}5.${Font}  安装speedtest"
 
     read -rp "请输入数字：" shuzi
     case $shuzi in
@@ -89,6 +90,11 @@ menu(){
        ;;
     4)
        exit 0
+       ;;
+    5)
+       read -rp "确定安装" 任意键
+       wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+chmod +x speedtest-cli
        ;;
     *)
        echo -e "${RedBG}请输入正确的数字${Font}"
