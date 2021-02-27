@@ -71,10 +71,11 @@ menu(){
     echo -e " \          YouTube https://bit.ly/38KzyU4               / "
     echo -e " ========================================================= "
     echo -e "${Green}1.${Font}  安装路由追踪"
-    echo -e "${Green}2.${Font}  输入追踪IP"
-    echo -e "${Green}3.${Font}  查看帮助"
-    echo -e "${Green}4.${Font}  退出脚本"
-    echo -e "${Green}5.${Font}  安装speedtest"
+    echo -e "${Green}2.${Font}  安装speedtest"
+    echo -e "${Green}3.${Font}  输入追踪IP"
+    echo -e "${Green}4.${Font}  查看帮助"
+    echo -e "${Green}5.${Font}  退出脚本"
+
 
     read -rp "请输入数字：" shuzi
     case $shuzi in
@@ -82,18 +83,18 @@ menu(){
        anzhuang
        ;;
     2)
+       read -rp "按任意键安装" 任意键
+       wget -O speedtest-cli https://raw.githubusercontent.com/ComeBey/BestTrace/master/speedtest/speedtest.py && chmod +x speedtest-cli
+       ;;
+    3)
        read -rp "请输入IP地址" ip
        ./besttrace -q1 -g cn -T ${ip}
        ;;
-    3)
+    4)
        ./besttrace -H
        ;;
-    4)
-       exit 0
-       ;;
     5)
-       read -rp "确定安装" 任意键
-       wget -O speedtest-cli https://raw.githubusercontent.com/ComeBey/BestTrace/master/speedtest/speedtest.py && chmod +x speedtest-cli
+       exit 0
        ;;
     *)
        echo -e "${RedBG}请输入正确的数字${Font}"
