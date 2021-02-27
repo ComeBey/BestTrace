@@ -121,8 +121,9 @@ chmod +x besttrace
     219.158.10.61  8.99 ms  AS4837  中国, 香港, chinaunicom.com, 联通
     219.158.10.61  6.69 ms  AS4837  中国, 香港, chinaunicom.com, 联通
 16  219.158.103.33  12.49 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
-
+```
 #电信线路
+```
     100.80.0.1  13.74 ms  *  共享地址
     100.80.0.1  2.44 ms  *  共享地址
     100.80.0.1  2.17 ms  *  共享地址
@@ -163,5 +164,5 @@ chmod +x besttrace
     202.97.16.9  38.10 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
     202.97.16.9  44.05 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
     202.97.95.133  30.30 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
-    202.97.95.133  24.73 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
++   202.97.95.133  24.73 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
 ```
