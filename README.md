@@ -1,6 +1,6 @@
 # besttrace.sh
 ```
-wget -N --no-check-certificate -q -O besttrace.sh "https://raw.githubusercontent.com/ComeBey/BestTrace/master/besttrace.sh" && chmod +x besttrace.sh && bash besttrace.sh
+wget -N --no-check-certificate -q -O besttrace.sh "https://raw.githubusercontent.com/ComeBey/BestTrace/master/besttrace.sh" && yum install -y wget unzip && chmod +x besttrace.sh && bash besttrace.sh
 ```
 
 
