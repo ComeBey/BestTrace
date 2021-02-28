@@ -49,7 +49,7 @@ chmod +x besttrace
  6  10.10.13.21  24.42 ms  *  局域网
     10.10.13.21  21.22 ms  *  局域网
     10.10.13.21  29.18 ms  *  局域网
- 9  10ge0-7.core1.hkg2.he.net (27.50.33.77)  18.19 ms  AS6939  中国, 香港, he.net
++   10ge0-7.core1.hkg2.he.net (27.50.33.77)  18.19 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  18.04 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  20.86 ms  AS6939  中国, 香港, he.net
 10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  41.06 ms  AS6939  中国, 香港, he.net
@@ -95,7 +95,7 @@ chmod +x besttrace
  6  10.10.13.21  20.54 ms  *  局域网
     10.10.13.21  17.81 ms  *  局域网
     10.10.13.21  21.08 ms  *  局域网
- 9  10ge0-7.core1.hkg2.he.net (27.50.33.77)  10.23 ms  AS6939  中国, 香港, he.net
++   10ge0-7.core1.hkg2.he.net (27.50.33.77)  10.23 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  7.39 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  10.84 ms  AS6939  中国, 香港, he.net
 10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  8.18 ms  AS6939  中国, 香港, he.net
@@ -148,7 +148,7 @@ chmod +x besttrace
  6  10.10.13.21  19.93 ms  *  局域网
     10.10.13.21  20.30 ms  *  局域网
     10.10.13.21  24.50 ms  *  局域网
- 9  10ge0-7.core1.hkg2.he.net (27.50.33.77)  24.73 ms  AS6939  中国, 香港, he.net
++   10ge0-7.core1.hkg2.he.net (27.50.33.77)  24.73 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  24.83 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  26.66 ms  AS6939  中国, 香港, he.net
 10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  22.82 ms  AS6939  中国, 香港, he.net
@@ -247,7 +247,7 @@ chmod +x besttrace
 ```
 华为云 
 ```diff
-    #联通直连
+    # 联通直连
  1  100.80.0.1  8.99 ms  *  共享地址
     100.80.0.1  2.02 ms  *  共享地址
     100.80.0.1  2.22 ms  *  共享地址
@@ -277,7 +277,7 @@ chmod +x besttrace
     219.158.10.61  8.99 ms  AS4837  中国, 香港, chinaunicom.com, 联通
     219.158.10.61  6.69 ms  AS4837  中国, 香港, chinaunicom.com, 联通
 +   219.158.103.33  12.49 ms  AS4837  中国, 广东, 广州, chinaunicom.com, 联通
--   #电信线路走联通在转202.97
+-   # 电信线路走联通在转202.97
     100.80.0.1  13.74 ms  *  共享地址
     100.80.0.1  2.44 ms  *  共享地址
     100.80.0.1  2.17 ms  *  共享地址
