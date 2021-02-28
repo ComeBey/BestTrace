@@ -52,12 +52,12 @@ chmod +x besttrace
 +   10ge0-7.core1.hkg2.he.net (27.50.33.77)  18.19 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  18.04 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  20.86 ms  AS6939  中国, 香港, he.net
-10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  41.06 ms  AS6939  中国, 香港, he.net
+    100ge11-2.core1.hkg1.he.net (184.105.223.117)  41.06 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  20.41 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  33.04 ms  AS6939  中国, 香港, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  174.45 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  209.35 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  171.56 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+    100ge11-1.core1.lax2.he.net (184.105.64.125)  174.45 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+    100ge11-1.core1.lax2.he.net (184.105.64.125)  209.35 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
++   100ge11-1.core1.lax2.he.net (184.105.64.125)  171.56 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   china169-backbone-as4837.100gigabitethernet12-2.core1.lax2.he.net (72.52.93.38)  177.95 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   china169-backbone-as4837.100gigabitethernet12-2.core1.lax2.he.net (72.52.93.38)  170.91 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   china169-backbone-as4837.100gigabitethernet12-2.core1.lax2.he.net (72.52.93.38)  175.91 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
@@ -98,12 +98,12 @@ chmod +x besttrace
 +   10ge0-7.core1.hkg2.he.net (27.50.33.77)  10.23 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  7.39 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  10.84 ms  AS6939  中国, 香港, he.net
-10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  8.18 ms  AS6939  中国, 香港, he.net
+   100ge11-2.core1.hkg1.he.net (184.105.223.117)  8.18 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  12.07 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  16.90 ms  AS6939  中国, 香港, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.18 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.06 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
--   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.63 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+    100ge11-1.core1.lax2.he.net (184.105.64.125)  166.18 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+    100ge11-1.core1.lax2.he.net (184.105.64.125)  166.06 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
++   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.63 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  171.54 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  176.34 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
 -   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  170.90 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
@@ -151,15 +151,15 @@ chmod +x besttrace
 +   10ge0-7.core1.hkg2.he.net (27.50.33.77)  24.73 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  24.83 ms  AS6939  中国, 香港, he.net
     10ge0-7.core1.hkg2.he.net (27.50.33.77)  26.66 ms  AS6939  中国, 香港, he.net
-10  100ge11-2.core1.hkg1.he.net (184.105.223.117)  22.82 ms  AS6939  中国, 香港, he.net
+    100ge11-2.core1.hkg1.he.net (184.105.223.117)  22.82 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  19.22 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  23.76 ms  AS6939  中国, 香港, he.net
-11  100ge10-1.core1.tyo1.he.net (184.105.64.130)  69.11 ms  AS6939  日本, 东京都, 东京, he.net
+    100ge10-1.core1.tyo1.he.net (184.105.64.130)  69.11 ms  AS6939  日本, 东京都, 东京, he.net
     100ge10-1.core1.tyo1.he.net (184.105.64.130)  68.37 ms  AS6939  日本, 东京都, 东京, he.net
     100ge10-1.core1.tyo1.he.net (184.105.64.130)  87.39 ms  AS6939  日本, 东京都, 东京, he.net
--   100ge11-1.core1.sea1.he.net (184.105.213.117)  153.25 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
--   100ge11-1.core1.sea1.he.net (184.105.213.117)  161.53 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
--   100ge11-1.``core1.sea1.he.net`` (184.105.213.117)  149.10 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
+    100ge11-1.core1.sea1.he.net (184.105.213.117)  153.25 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
+    100ge11-1.core1.sea1.he.net (184.105.213.117)  161.53 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
++   100ge11-1.core1.sea1.he.net (184.105.213.117)  149.10 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
 -   sea-b2-link.ip.twelve99.net (62.115.181.197)  162.00 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
 -   sea-b2-link.ip.twelve99.net (62.115.181.197)  152.46 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
 -   sea-b2-link.ip.twelve99.net (62.115.181.197)  151.11 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
