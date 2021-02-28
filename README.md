@@ -102,14 +102,14 @@ chmod +x besttrace
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  12.07 ms  AS6939  中国, 香港, he.net
     100ge11-2.core1.hkg1.he.net (184.105.223.117)  16.90 ms  AS6939  中国, 香港, he.net
 -   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.18 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-    100ge11-1.core1.lax2.he.net (184.105.64.125)  166.06 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-    100ge11-1.core1.lax2.he.net (184.105.64.125)  166.63 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-12  chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  171.54 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-    chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  176.34 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-    chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  170.90 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
-13  202.97.50.82  174.36 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
-    202.97.50.82  170.43 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
-    202.97.50.82  168.74 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
+-   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.06 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+-   100ge11-1.core1.lax2.he.net (184.105.64.125)  166.63 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+-   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  171.54 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+-   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  176.34 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+-   chinanet-backbone-as4134.10gigabitethernet5-12.core1.lax2.he.net (64.62.244.62)  170.90 ms  AS6939  美国, 加利福尼亚州, 洛杉矶, he.net
+-   202.97.50.82  174.36 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
+-   202.97.50.82  170.43 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
+-   202.97.50.82  168.74 ms  AS4134  美国, 加利福尼亚州, 洛杉矶, chinatelecom.com.cn, 电信
 14  202.97.51.105  313.36 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
     202.97.51.105  312.02 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
     202.97.51.105  310.40 ms  AS4134  中国, 广东, 广州, chinatelecom.com.cn, 电信
@@ -157,18 +157,18 @@ chmod +x besttrace
 11  100ge10-1.core1.tyo1.he.net (184.105.64.130)  69.11 ms  AS6939  日本, 东京都, 东京, he.net
     100ge10-1.core1.tyo1.he.net (184.105.64.130)  68.37 ms  AS6939  日本, 东京都, 东京, he.net
     100ge10-1.core1.tyo1.he.net (184.105.64.130)  87.39 ms  AS6939  日本, 东京都, 东京, he.net
-12  100ge11-1.core1.sea1.he.net (184.105.213.117)  153.25 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
-    100ge11-1.core1.sea1.he.net (184.105.213.117)  161.53 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
-    100ge11-1.core1.sea1.he.net (184.105.213.117)  149.10 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
-13  sea-b2-link.ip.twelve99.net (62.115.181.197)  162.00 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-    sea-b2-link.ip.twelve99.net (62.115.181.197)  152.46 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-    sea-b2-link.ip.twelve99.net (62.115.181.197)  151.11 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-14  chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  173.70 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-    chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  189.19 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-    chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  183.05 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
-15  223.120.6.53  179.92 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
-    223.120.6.53  181.78 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
-    223.120.6.53  179.91 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
+-   100ge11-1.core1.sea1.he.net (184.105.213.117)  153.25 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
+-   100ge11-1.core1.sea1.he.net (184.105.213.117)  161.53 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
+-   100ge11-1.``core1.sea1.he.net`` (184.105.213.117)  149.10 ms  AS6939  美国, 华盛顿州, 西雅图, he.net
+-   sea-b2-link.ip.twelve99.net (62.115.181.197)  162.00 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   sea-b2-link.ip.twelve99.net (62.115.181.197)  152.46 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   sea-b2-link.ip.twelve99.net (62.115.181.197)  151.11 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  173.70 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  189.19 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   chinamobile-ic342124-sea-b2.ip.twelve99-cust.net (62.115.171.221)  183.05 ms  AS1299  美国, 华盛顿州, 西雅图, telia.com
+-   223.120.6.53  179.92 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
+-   223.120.6.53  181.78 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
+-   223.120.6.53  179.91 ms  AS58453  美国, 华盛顿州, 西雅图, chinamobile.com, 移动
 16  223.120.13.194  166.31 ms  AS58453  中国, 广东, 广州, chinamobile.com, 移动
     223.120.13.194  167.48 ms  AS58453  中国, 广东, 广州, chinamobile.com, 移动
     223.120.13.194  165.14 ms  AS58453  中国, 广东, 广州, chinamobile.com, 移动
