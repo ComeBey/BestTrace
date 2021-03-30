@@ -72,9 +72,9 @@ menu(){
     echo -e " ========================================================= "
     echo -e "${Green}1.${Font}  安装路由追踪"
     echo -e "${Green}2.${Font}  安装speedtest"
-    echo -e "${Green}3.${Font}  输入追踪IP"
-    echo -e "${Green}4.${Font}  查看帮助"
-    echo -e "${Green}5.${Font}  退出脚本"
+    echo -e "${Green}3.${Font}  请输入追踪IP"
+    echo -e "${Green}4.${Font}  路由追踪帮助"
+    echo -e "${Green}5.${Font}  请退出脚本"
 
 
     read -rp "请输入数字：" shuzi
